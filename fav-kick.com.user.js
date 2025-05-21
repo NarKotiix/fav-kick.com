@@ -6,6 +6,8 @@
 // @author       ChatGPT
 // @match        https://kick.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/NarKotiix/fav-kick.com/refs/heads/main/fav-kick.com.user.js
+// @downloadURL  https://raw.githubusercontent.com/NarKotiix/fav-kick.com/refs/heads/main/fav-kick.com.user.js
 // ==/UserScript==
 
 (function() {
