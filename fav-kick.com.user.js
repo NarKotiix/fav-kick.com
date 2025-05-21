@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Onglet Favoris Emojis pour Kick.com
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Ajoute un onglet Favoris pour les emojis sur Kick avec gestion via CTRL+clic gauche
 // @author       ChatGPT
 // @match        https://kick.com/*
